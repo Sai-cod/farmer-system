@@ -1,0 +1,16 @@
+{
+  "name": "farmer-ai-advisory-frontend",
+  "version": "1.0.0",
+  "description": "Frontend application for the Farmer AI Advisory System",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
